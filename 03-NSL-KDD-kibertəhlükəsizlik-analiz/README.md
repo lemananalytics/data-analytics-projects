@@ -29,4 +29,5 @@ Kibertəhlükəsizlik analitikası çərçivəsində reallaşdırılan bu araşd
 Şəbəkə trafikinin legitim və ya anomal olduğunu proqnozlaşdırmaq üçün qurulan Logistik Reqressiya modelinin performansı:
 * **Ümumi Dəqiqlik (Accuracy):** 90%
 * **Həssaslıq (Recall for Anomal):** 92% — Model real olaraq baş verən hücum şəbəkələrinin 92%-ni uğurla aşkarlaya bilir. Kibertəhlükəsizlik analitikasında qaçırılan hücum riskini (False Negative) minimuma endirmək baxımından bu metrik kritik əhəmiyyət daşıyır.
+<img width="1110" height="742" alt="image" src="https://github.com/user-attachments/assets/443eb44f-b592-4e17-8220-a94d16200062" />
 
