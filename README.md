@@ -26,7 +26,9 @@ Bu repozitoriyada mənim data analitikası, statistika, maşın öyrənməsi ön
   * **Texnologiyalar:** Power BI (DAX, Power Query), Excel, Python  
   * **Biznes Dəyəri:** Bakı şəhəri üzrə mənzil elanlarının təmizlənməsi, $m^2$ qiymətləri, yerləşmə (rayon/metro) və investisiya gəlirliliyi (ROI/Rental Yield) üzrə interaktiv dashboard-un hazırlanması.
 
----
+* **[Qovluq 7: Azərbaycanın Demoqrafik Göstəricilərinin Statistik təhlili (1935-2025)](./Azərbaycan%20demoqrafiyası(1935-2025)/)** 
+  - **Texnologiyalar:** Python (Pandas, Statsmodels, SciPy, Scikit-learn, Matplotlib/Seaborn)
+  - **Biznes Dəyəri:** 90 illik zaman sırası üzrə trend və böyümə sürəti təhlili, OLS reqressiya, hipotez testləri (Shapiro-Wilk, Levene, Welch t-test), korrelyasiya, K-means ilə dövrləşdirmə və ARIMA ilə əhali proqnozu. Nəticələr yekun PDF hesabatda ümumiləşdirilib.
 
 ## İstifadə Olunan Əsas Alətlər:
-**Python (Pandas, NumPy, SciPy, Statsmodels), SQL (PostgreSQL), Power BI, Excel & Power Query, Git & GitHub.**
+**Python (Pandas, NumPy, SciPy, Statsmodels, Scikit-learn), SQL (PostgreSQL), Power BI, Excel & Power Query, Git & GitHub.**
