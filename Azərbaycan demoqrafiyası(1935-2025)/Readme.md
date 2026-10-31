@@ -118,11 +118,7 @@ pip install pandas numpy matplotlib seaborn scipy statsmodels scikit-learn jupyt
 jupyter notebook Azerbaycan_demoqrafiya_1935_2025.ipynb
 ```
 
-Notebook-un data faylını oxuyan sətrində yol qovluqdakı CSV faylına uyğunlaşdırılmalıdır:
 
-```python
-df = pd.read_csv("azerbaycan_demoqrafiya_1935_2025.csv")
-```
 
 ## Yekun hesabat
 
